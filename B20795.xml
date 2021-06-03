@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fevv plain vvords to the officers of the army by way of councel from one who was conversant with them for the space of about 14 years / by Richard Crane.</title>
+            <author>R. C. (Richard Crane)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20795</idno><idno type="EEBO-CITATION">18515163</idno>
+  <idno type="VID">205239</idno>
+  <idno type="EEBO-PROQUEST">2240854434</idno>
+  
+            <idno type="STC">Wing C6810</idno>
+            <idno type="OCLC">18515163</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205239)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1649:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fevv plain vvords to the officers of the army by way of councel from one who was conversant with them for the space of about 14 years / by Richard Crane.</title>
+                  <author>R. C. (Richard Crane)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205239:1"/>
+            <p>A fevv Plain VVords TO THE OFFICERS OF THE ARMY By way of COUNCEL, From one who was conversant with them for the space of about 14 years.</p>
+            <p>By RICHARD CRANE.</p>
+            <p>LONDON, Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Aldersgate, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205239:2"/>
+            <pb n="3" facs="tcp:205239:2"/>
+            <head>A FEW PLAIN WORDS TO THE <hi>OFFICERS</hi> OF THE ARMY: From one who was conversant with them for the space of about 14 years.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>TO You of the Army I write, to whom is commit<g ref="char:EOLhyphen"/>ted the appointing of men to Govern and Rule in these Nations, my Councel is to you in the fear of the Lord, and in true love that you turn your minds to Gods manifestation in you, and by it you will first see what is amiss in your selves, before you choose others; For how can you chuse men fearing God and hating cove<g ref="char:EOLhyphen"/>tousness, when out of Gods fear you are your selves, and seeking your own ends? Therefore turn to Gods witness in you, and bring your deeds to it, that by it either you may be Justified or Condemned, for it will deal plainly with you. Think not your undertakings will prosper, whilst you are at enmity with that of God in you; I know Friends, once truth was precious amongst you, and the welfare of it was your aim, but you are most grievously backslidden and dege<g ref="char:EOLhyphen"/>nerated, as though you had never been the men, to the
+<pb n="4" facs="tcp:205239:3"/>grief of heart of all that fear the Lord; and in plainness I tell you, that since your zeal for truth hath been lost, and the honesty turned from, you have never recovered your selves of the Apostacy since, nor come to the same principle again as yet, though you have often made shews as if you would, but to this day the Judgements of God are upon you and among you for your thus dealing, and great is your misery, for your darkness is such, that you know not the reason, you must find out <hi>Achans</hi> wedge of gold which hath been stoln, and hath been this many years hide amongst you, before you see the Judgements of God which are heaped on you, removed; But alas! instead of making true search for it, devices and inventions in the deceit are still made to cover it, and would bury it for ever, if it were possible; but know Gods Judgements will in no wise give ease or rest till that cursed thing be removed from amongst you; you may remember though many years be passed over your heads since, that when the Lord gave into your hand the grand enemy of these Nations welfare, which stood in opposition to the way and work of the Lord at that time, true Justice was done on him, for his shedding and causing to be shed so much inno<g ref="char:EOLhyphen"/>cent blood in these Nations, at length his blood was shed, which was Just, for his life paid for his transgression, accord<g ref="char:EOLhyphen"/>ing to Gods Law and his own, which he pretented to Go<g ref="char:EOLhyphen"/>vern by; Hitherto Friends, you kept your integrity, I am a witnesse with many more, but it was quickly lost, as shall be made appear; for when Justice was faithfully perfor<g ref="char:EOLhyphen"/>med upon the murderer for his proper fact, then the wrong he had done to the Nation by his cruel oppression and his Army should have been satisfied out of his Estate and Re<g ref="char:EOLhyphen"/>venue whilst a penny of it had lasted, and likewise out of their Estates, who were partners with him in his tyrannical actions, and the publick debs should have been paid; But alas! here you let in the tempter and entred the temptation, there appeared goodly buildings, great and stately houses, pleasant vineyards, large parks, with many other pleasant things which he kept in his life-time to serve his insatiable lusts; and letting your minds out a whoring after this beau<g ref="char:EOLhyphen"/>tiful Harlot which hath bewitched you, here you lost your
+<pb n="5" facs="tcp:205239:3"/>integrity for God and truth, here you turned from his mea<g ref="char:EOLhyphen"/>sure in you, and so gave up your selves to your covetous de<g ref="char:EOLhyphen"/>sires, which was received as an Angel by you, but it is be<g ref="char:EOLhyphen"/>come and will be a Devil to torment you for ever, except you come to be reconciled to Gods witness in you, which cannot be, unless true repentance and pure self-denial be made manifest from you; here the Good Old Cause was left to purchase Lands to your selves, and the back was turned off the honest principle then, which was found precious to many of you; and many Officers who could not procure money to purchase to themselves the curse, made means to buy Souldiers debentures, some for 8 shillings in the pound, some five, some half a crown; here the inferiour Officers found out a way to Merchandize and traffick; but know this, the fields you have purchased are but so many Aceldeme's, &amp; assuredly the price of blood: I was not Ignorant of these things, for I was one of them that sold my Arrears for not half the worth, I do not envy any of you in the least who hath made your selves rich by this way and means, the Lord bears me witness, but in love I mind you of them, and shew you the very time and way where you turned out from truth, and entred into the falshood and deceit; and if ever you return to the same principle again, you must restore the wedge, and vomit up again what in your excess you have swallowed down; and so give that of God in you his due, and the Common-wealth his due, and your due you will find to be your lawful pay, from time to time, for Kings Lands, or Bishops, or other delinquents estates belonged not to you, that which was yours, or you might de<g ref="char:EOLhyphen"/>mand was, your just pay for your just service, and no otherwise, and you should have been content with that which was your lot, and then violence you would have stood clear of; &amp; this is true which we have found by experi<g ref="char:EOLhyphen"/>ence, that since you turned from that of God in you, you have lost that which kept the conscience tender in you, and so you being out of the sence of it, hath given up to perse<g ref="char:EOLhyphen"/>cution all tender consciences to be used according to the will and pleasure of both wicked Magistrates, wicked Ministers and wicked people, and so havock hath been and is made
+<pb n="6" facs="tcp:205239:4"/>of all that fear the Lord, and this lyeth at your doors, nei<g ref="char:EOLhyphen"/>ther can you ever free your selves of it, till you through true repentance to the Lord, and pure self-denial make it appear otherwise, and whereas you countenance, and say you will maintain a godly learned Ministry, you are out of the knowledge of those sort of men, that are really so, while you and the measure of Gods Spirit in you is separated, your discerning is lost, for you are, and stand in that which calls darkness light, and light darkness, errour, truth, and truth error, and so knoweth not the hypocrite from the godly, but if you will persist in your imaginations to approve &amp; to try, take this along in your enterprize, that they that will have of your godly Ministry, &amp; will be taught by them, let such main<g ref="char:EOLhyphen"/>tain them, for I am far from envying those sort of men, that I matter it not, if every man take a Priest into his house to him, if we that are brought from under their cheat be no more troubled with them, neither compelled to hear nor maintain them, which thing is but honest, just and right; for which of you would be compelled to hear our Ministers, or would you think it well to be compelled to maintain them? (I trow not) neither do we; but know this, in the presence of God we challenge and claim the same Liberty as you your selves have in matters of conscience which concerns worship, for you are not Judges of our consciences, neither is it your place or duty, for he who is Judge of the conscience we know, and witness his teaching and exercising.</p>
+            <p>And Friends, think not with your selves that you can make, or be instrumental in making Just Laws or settle a good Government in these Nations, while you are at distance from the pure measure of God in you, upon which all Just Lawes are grounded; for while you stand in that state, the Just Law condemns you, though you were very zealous for Justice in that nature, you could not bring it forth, for the true Prophet of the Lord in you, declareth it unto you, you are the men that are against true Justice and Liberty, neither can that which hath swarved from it, bear it, when it is brought forth, for the greatest burthen you unrighteous men must bear (is Gods pure truth) and so be<g ref="char:EOLhyphen"/>ing seperated from the just Principle in you, you labour in
+<pb n="7" facs="tcp:205239:4"/>the fire, and wearies your selves with vanity, and this is your portion till you come honestly and unfeignedly to search your selves with Gods witness in you, which will bring you to true repentance indeed, and forsaking and true self-denial, which will be of good savour amongst you and all that fear the Lord, and then we may take that as a sign that something that is good and just will follow; But till then, we cannot hope of better things to be brought forth then at present is; and if ever you come singly to give up to Gods manifestation in you to be taught and guided, then you will deny your selves of your honour, and Titles of honour, which at present you seek one of another, which savours still of that old filthy sowre mouldy leaven, King, or single person; consider these things and lay them to heart in the fear of the Lord, wage not your Souls, which is mortal, with these trifling vanities, which will stand you in no stead in the day of the Lord; and consider though the people of this Nation have been made to draw in the deceitful yoke these many years, and have bowed down their necks under it, but now their eyes are open, and fair words will no longer serve their turns, as they have done formerly, it is now the substance they look at, and a real thing done that must answer their expectations from you, so to the end of your line and limit are you run in this particular, and your last visitation and tryal I do truly believe it is to most of you; therefore prize it in love I councel you.</p>
+            <p>And my dear Friends, with whom I spent most of my youthful dayes and strength, in love and much plainness of heart I write unto you, not out of any end to my self, that of God in me is my record, but that you might acquit your selves like men, in this great work wch is brought once more before you, I know with most of you this is the truth which I have written (Gods witness in you will seal it) when ever these things are brought to minde; and this I know, had you stood in Gods Councel, in which once was your de<g ref="char:EOLhyphen"/>light, that temptation had never entered you which hath led you into all the confusion and distraction which you have been in ever since, and not brought out of it this very present, neither can you, till such time as you come to act
+<pb n="8" facs="tcp:205239:5"/>singly and honestly, from that good Principle of God in you, and then faithfulness and truth will be seen, and felt in every of your undertakings, and then a blessing will you be made upon earth, and in those few days you have to live, you may redeem many, which hath been evil spent, but if you reject the Councel of the Lord, and still go on in the old way of deceit, by daubing with the untempered morter (know this friends, the Lord will make use of other Instru<g ref="char:EOLhyphen"/>ments, and will bring his purpose which he hath decreed to pass, and you will be east by, as making your selves unwor<g ref="char:EOLhyphen"/>thy through your unfaithfulness.) Lay it to heart.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
